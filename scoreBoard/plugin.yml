@@ -1,0 +1,8 @@
+name: scoreBoardPlugin
+main: noahasu\score\Main
+version: 1.0.0
+api: 3.3.2
+author: noahasu
+depend:
+  - EconomyAPI
+  - MiningLevelSystem
