@@ -1,0 +1,2 @@
+# yurisi-PlayerInfoScoreBoard-config-Deceitya-MiningLevelSystem-
+yurisi氏のPlayerInfoScoreBoardプラグインをConfigで扱えるように変更し、Deceitya氏のMiningLevelSystemのレベル等を表示できるように変更したもの
